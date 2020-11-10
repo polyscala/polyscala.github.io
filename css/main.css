@@ -3,7 +3,14 @@
 
 
 body{
+    background-color: #01161E; 
     font-family: 'Overpass', sans-serif;
+    color: #70F8BA;
+}
+
+.navbar{
+    background-color: #CAFE48 !important;
+    color: #57467B !important;
 }
 
 .maintitle{
