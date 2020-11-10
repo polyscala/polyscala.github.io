@@ -5,3 +5,8 @@
 body{
     font-family: 'Overpass', sans-serif;
 }
+
+.maintitle{
+    text-align: center;
+    padding-top: 10%;
+}
