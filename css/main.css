@@ -8,9 +8,13 @@ body{
     color: #70F8BA;
 }
 
-.navbar{
-    background-color: #CAFE48 !important;
-    color: #57467B !important;
+.navbar, .navbar-brand{
+    background-color:  #01161E!important;
+    color: #70F8BA !important;
+}
+
+.navbar:hover, .navbar-brand:hover{
+    color: #0bea86 !important;
 }
 
 .maintitle{
