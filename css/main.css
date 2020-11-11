@@ -26,18 +26,21 @@ body{
 
 
 .firstbox{
+    text-shadow: 0 0 10px #70F8BA;
     padding-top: 30%;
     padding-left: 20%;
     padding-bottom: 5%;
 }
 
 .secondbox{
+    text-shadow: 0 0 10px #70F8BA;
     padding-right: 20%;
     padding-bottom: 5%;
     text-align: right;
 }
 
 .thirdbox{
+    text-shadow: 0 0 10px #70F8BA;
     padding-left: 20%;
     padding-bottom: 5%;
 }
@@ -57,4 +60,5 @@ body{
 
 .hideme{
     opacity:0;
+    transform: translateY(100%);
 }
