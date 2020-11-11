@@ -61,3 +61,16 @@ body{
 .hideme{
     opacity:0;
 }
+
+
+.contacts {
+    align-content: center;
+    margin-top: 110px;
+    float: left;
+    margin-left: 10px;
+    border-radius: 20px;
+    border: 2px solid  #70F8BA;
+    padding: 20px;
+    width: 400px;
+    height: 150px;
+}
