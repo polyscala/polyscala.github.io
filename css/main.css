@@ -63,18 +63,16 @@ body{
 }
 
 .contactsCenter {
-    margin: auto;
-    width: 61%;
+    margin-left: 14%;
+    width: 100%
 }
 
 .contacts {
-    align-content: center;
-    margin-top: 110px;
     float: left;
     margin-left: 10px;
-    border-radius: 20px;
+    border-radius: 10px;
     border: 2px solid  #70F8BA;
-    padding: 20px;
-    width: 400px;
-    height: 150px;
+    padding: 10px;
+    width: 35%;
+    height: 20%;
 }
