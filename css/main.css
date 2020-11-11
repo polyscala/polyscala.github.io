@@ -62,6 +62,10 @@ body{
     opacity:0;
 }
 
+.contactsCenter {
+    margin: auto;
+    width: 61%;
+}
 
 .contacts {
     align-content: center;
