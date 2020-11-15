@@ -75,3 +75,15 @@ body{
     padding: 10px;
     width: 25%;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #70F8BA;
+}
+
+a:hover {
+    color: #0bea86;
+}
